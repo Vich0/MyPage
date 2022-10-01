@@ -619,6 +619,10 @@ nav a:hover::before {
 .fifth-content .container-fluid {
   padding-left: 0px;
   padding-right: 0px;
+  padding-top: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .fifth-content .container-fluid .col-md-6 {
